@@ -8,9 +8,9 @@ Note: Please make sure that you have node.js and npm installed before doing the 
 2. Run the app using npm start or nodemon npm start or node server.js.
 
 3. Now go to the link below in your browser:
-localhost:3000/location/{Your Address}
+localhost:3000/location/{Your Location Address or City Name}
 
 4. You are now looking at the weather condition for location.
 
-This app is also live on https://
+This app is also live on https://vast-sea-40287.herokuapp.com/location/{Your Location Address or City Name}
 Addons are allowed, thank you.
